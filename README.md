@@ -2,7 +2,7 @@
 
 The idea of architure that can adapt to scale out system.  
 
-https://github.com/phoenixit99/systemDesign/blob/dev/systemDesign.pdf
+https://github.com/phoenixit99/systemDesign/blob/dev/systemDesign.drawio.png 
 
 # CDN: (Content delivery network): 
 - In system have some content alway is static in alway life time. So in this case we can use CDN that cache static content (image, video, css, javascript files)
