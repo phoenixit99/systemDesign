@@ -1,6 +1,6 @@
 # systemDesign
 
-The idea of architure that can adapt to scale out system.  
+The idea of architecture that can adapt to scale out system.  
 
 <img height="700px" src = "https://github.com/phoenixit99/systemDesign/blob/dev/systemDesign.drawio.png" />
 
